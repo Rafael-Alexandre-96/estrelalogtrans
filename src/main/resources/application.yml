@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://rafaelalexandre96ra:xI0sjjT6KScLdsZ5@cluster0.4fp7hp7.mongodb.net/test
+      database: db_estrela
